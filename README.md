@@ -1,2 +1,2 @@
 # Spring-boot-customers
-Spring boot project to add, update, delete customers. Get list of all available customers.
+This Spring boot project is create a service to add, update, delete customers. Get list of all available customers.
